@@ -1,16 +1,23 @@
-## Hi there 👋
+<p align="center">
+  <a href="https://yuna0x0.com">
+    <img src="skeleton%20mail.png" alt="Skeleton Mail Banner" width="50%">
+  </a>
+</p>
 
-<!--
-**nb923/nb923** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi, I'm <a href="[https://yuna0x0.com](https://www.linkedin.com/in/bknideesh/)">Nideesh</a>!</h1>
 
-Here are some ideas to get you started:
+<h3 align="center">Welcome to my GitHub profile :)</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">I love working on anything Software and Hardware related, with my current interests being in AI and Cloud-Native</p>
+
+<p align="center">
+  <strong><a href="https://www.linkedin.com/in/bknideesh/">LinkedIn</a></strong> |
+  <strong><a href="https://bsky.app/profile/bknideesh.bsky.social">Bluesky</a></strong> |
+  <strong><a href="https://x.com/bknideesh">X</a></strong>
+</p>
+
+<p align="center">
+  <a href="https://github.com/yuna0x0">
+    <img src="https://github-readme-stats.vercel.app/api?username=nb923&hide_border=true&show_icons=true" alt="nb923's github stats">
+  </a>
+</p>
