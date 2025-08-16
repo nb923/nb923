@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/yuna0x0">
+  <a href="https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#github-stats-card">
     <img src="https://github-readme-stats.vercel.app/api?username=nb923&hide_border=true&show_icons=true" alt="nb923's github stats">
   </a>
 </p>
